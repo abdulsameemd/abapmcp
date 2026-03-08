@@ -3,6 +3,6 @@
   "skip_initial": false,
   "type": "TABU",
   "where": [
-    "AREA = 'demo'"
+    "AREA = 'demoabapsdk'"
   ]
-}
+} 
